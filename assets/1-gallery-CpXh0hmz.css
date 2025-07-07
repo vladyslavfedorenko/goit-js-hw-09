@@ -1,0 +1,1 @@
+.gallery{display:flex;flex-wrap:wrap;gap:24px;list-style:none;padding:0;justify-content:center}.gallery-link{display:block;text-decoration:none}.gallery-image{display:block;width:360px;height:200px;transition:transform .3s}.gallery-image:hover{transform:scale(1.03)}.basicLightbox{background:#2e2f42cc}
